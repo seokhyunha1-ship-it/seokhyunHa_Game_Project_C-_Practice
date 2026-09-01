@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "객체지향프로그래밍_26031033_하석현_1주차과제/1.0.0": {
+        "runtime": {
+          "객체지향프로그래밍_26031033_하석현_1주차과제.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "객체지향프로그래밍_26031033_하석현_1주차과제/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
